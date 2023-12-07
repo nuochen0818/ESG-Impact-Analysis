@@ -1,4 +1,4 @@
-# ESG Impact Analysis - Nuo Chen's Final Project
+# ESG Impact Analysis
 
 ## 1. Overview
 
